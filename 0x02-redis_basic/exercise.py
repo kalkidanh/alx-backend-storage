@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """ Class that stores a Redis client as a private variable"""
 
-from typing import Union
 from typing import Callable, Optional, Union
 from uuid import uuid4
 import redis
